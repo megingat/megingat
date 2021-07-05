@@ -103,8 +103,6 @@ Az ott élők számára ajándék ez nap mint nap.
 
 ![](https://i.imgur.com/8LBYjwy.jpg)
 
-![](https://i.imgur.com/ZuGJ2Ec.jpg)
-
 ![](https://i.imgur.com/AVwaz5F.jpg)
 
 ![](https://i.imgur.com/JApKNkx.jpg)
