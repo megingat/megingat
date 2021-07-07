@@ -1,0 +1,287 @@
+.content {
+  padding: 0;
+}
+
+#navi,
+.content h1,
+.content h2,
+.content h3,
+.content h4 {
+  color: black;
+  font-weight: 700;
+  font-family: 'Ubuntu', sans-serif;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.content .carousel img {
+  max-height: 95vh;
+}
+
+.content .carousel h1 {
+  color: white;
+}
+.content .marketing .col {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  text-align: center;
+  font-size: 15px;
+}
+.content .marketing h1 {
+  font-size: 25px;
+}
+
+#navi {
+  margin: 0;
+  padding-left: 5px;
+  background: rgb(100, 0, 0);
+  font-size: 15px;
+  font-weight: 400;
+}
+
+#navi > a {
+  color: rgba(255, 255, 255, 0.8);
+  display: block;
+  float: left;
+  margin-left: 10px;
+  margin-right: 20px;
+  padding: 10px;
+}
+
+#navi > a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+#navi .logo {
+  background: rgb(150, 0, 0);
+}
+
+#navi .logo img {
+  width: 20px;
+  margin-right: 5px;
+  opacity: 0.8;
+}
+
+#navi .logo:hover img {
+  opacity: 1;
+}
+
+#footer {
+  background: #640000;
+  background: linear-gradient(to bottom, #460000, #640000);
+  color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 15px;
+}
+
+#footer a {
+  color: rgba(255, 255, 255, 0.8);
+}
+#footer a:hover,
+#footer a:active,
+#footer a:focus {
+  color: white;
+}
+
+#footer .mini {
+  font-size: 10px;
+  opacity: 0.5;
+}
+
+#footer .contacts {
+  display: inline-block;
+  margin: 2px;
+}
+#footer .contacts p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+#footer .contacts p:first-child {
+  font-size: 15px;
+}
+
+.content h1 {
+  font-size: 50px;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.content img {
+  width: 100%;
+  max-height: 100vh;
+  object-fit: cover;
+}
+
+.content p img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.content > * {
+  font-family: 'Lora', serif;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+.content.prose > * {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.content.prose > p {
+  text-align: justify;
+}
+
+.content .parallax {
+  margin: 0 !important;
+  overflow: hidden;
+  position: relative;
+}
+
+.content .parallax h1 {
+  position: absolute;
+  bottom: 30px;
+  width: 80%;
+  color: white;
+  text-shadow: 0 0 10px black;
+}
+
+@-webkit-keyframes bump {
+  from { padding-bottom: 0; }
+  to { padding-bottom: 20px; }
+}
+@keyframes bump {
+  from { padding-bottom: 0; }
+  to { padding-bottom: 20px; }
+}
+
+#fold-marker {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-name: bump;
+  animation-name: bump;
+  -webkit-animation-iteration-count: infinite;
+  iteration-count: infinite;
+  -webkit-animation-direction: alternate;
+  animation-direction: alternate;
+  position: fixed;
+  margin: 0;
+  bottom: 10px;
+  right: 50px;
+  font-size: 30px;
+  color: white;
+  opacity: 0.8;
+  text-shadow: 0 0 3px black;
+  cursor: pointer;
+}
+#fold-marker:hover {
+  opacity: 1;
+}
+
+#scroll-up {
+  font-size: 30px;
+  color: white;
+  opacity: 0.8;
+  text-shadow: 0 0 3px black;
+  cursor: pointer;
+}
+#scroll-up:hover {
+  opacity: 1;
+}
+
+.btn-megingat {
+  color: rgba(255, 255, 255, 0.8);
+  background-color: rgb(150, 0, 0);
+  border-color: rgb(100, 0, 0);
+}
+.btn-megingat:hover,
+.btn-megingat:focus,
+.btn-megingat:active,
+.btn-megingat.active {
+  color: white;
+  background-color: rgb(100, 0, 0);
+  border-color: rgb(70, 0, 0);
+}
+
+.felsorolas .egyik {
+  background-color: rgba(100, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.felsorolas .egyik > * {
+  margin-left: 220px;
+}
+
+.felsorolas .egyik img {
+  height: 200px;
+  width: 200px;
+  margin-left: -220px;
+  border-radius: 50%;
+  float: left;
+}
+
+.felsorolas .egyik h1 {
+  text-align: left;
+  font-size: 30px;
+}
+
+@media (max-width: 800px) {
+  .content h1 {
+    font-size: 24px;
+  }
+  .content > * {
+    font-size: 14px;
+  }
+  .felsorolas .egyik img {
+    height: 100px;
+    width: 100px;
+    margin-left: -120px;
+  }
+  .felsorolas .egyik > * {
+    margin-left: 120px;
+  }
+  .felsorolas .egyik h1 {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 400px) {
+  .content h1 {
+    font-size: 18px;
+  }
+  .content.prose > * {
+    margin: 10px;
+  }
+  .carousel-caption p {
+    display: none;
+  }
+  .carousel-caption p:last-child {
+    display: block;
+  }
+}
+
+@media print {
+  .content h1 {
+    font-size: 24pt;
+  }
+  .content > * {
+    font-size: 14pt;
+  }
+  #navi,
+  #fold-marker,
+  .carousel {
+    display: none;
+  }
+  #footer a[href]:after,
+  a.btn[href]:after {
+    content: '';
+  }
+}
+
+.goog-te-gadget {
+  float: right;
+}
