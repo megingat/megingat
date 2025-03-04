@@ -3,14 +3,14 @@ layout: english-elado
 title: Pannonhalma romantic property for sale
 canindex: no
 
-# Irányára: 3500000 €
+# Irányára: 3750000 €
 ---
 
 # ![](https://i.imgur.com/J4m9gPe.jpg) Pannonhalma romantic property for sale
 
 {% include fold.html %}
 
-At historic Pannonhalma, a nearly 80 ha romantic property is for sale.
+At historic Pannonhalma, a nearly 90 ha romantic property is for sale.
 
 The property is not far from the impressive building ensemble of the World Heritage Pannonhalma Benedictine Abbey.
 
