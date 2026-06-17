@@ -3,56 +3,135 @@ layout: elado
 title: Eladó malom
 ---
 
-#![Kívülről](http://i.imgur.com/cHwgdIm.jpg) Eladó önfenntartó tanya a Bakonyban!
+# ![Kívülről](https://i.imgur.com/YQTNkZ4.jpg) Önfenntartó tanya most árengedménnyel eladó a Bakonyban!
 
-## Irányára: 150000000 HUF
+{% include fold.html %}
 
-Izgalmas, különleges, összesen 5,8 ha-os ingatlant ölel a Bakonyban eredő bő vizű Séd patak két ága, Balatonfüredtől mindössze 30 km-re!
+Balatonfüredtől mindössze 30 km-re izgalmas, különleges, 9,1 ha-os ingatlant ölel a Bakonyban eredő bővizű Séd patak két ága!
 
-A Szentgáli Református Egyház megbízásából 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani Herend külterületén. Hagyománytisztelő ízléssel a mai kor igényei szerint is kényelmes, igényes otthont teremtettek a történelmünkre emlékező falak között. 
+Az 1854-ben épült vízimalmot új tulajdonosai 2009-ben kezdték felújítani. Hagyománytisztelő ízléssel a mai kor igényei szerint is kényelmes, igényes otthont teremtettek a történelmünkre emlékező falak között. 
 
-A 300 m2-es, hat szobás, kétszintes épületben egy nagy lakást és vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki. A tetőtér beépítése még nem fejeződött be.
+A fotókon látható a már felújított épület korszerűsítése, az épp kialakított tavacskák a befejezésük előtt és után. 
 
-![Kívülről](http://i.imgur.com/JjwSV0l.jpg)
+![Kívülről](https://i.imgur.com/JAcfpSa.jpg)
 
-A gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy a fenntartása nem csak környezetbarát, minden szolgáltatótól független, de teljesen ingyenes is! A malom kerekét a 3 m-ről lezúduló patakvíz hajtja. Az elektromos energia egy része innen származik, a tetőn pedig napkollektorok és napelemek termelik az energiát. A bevizsgált ivóvizet a saját kút adja, a fűtéshez a saját 0,8 ha-os erdő biztosítja a tüzelőt. Az otthon melegét a központi fűtés mellett a cserépkályhában és kandallóban pattogó tűz hangulata is fokozza…
+![Kívülről](https://i.imgur.com/WXF6yub.jpg)
 
-![Kívülről](http://i.imgur.com/amgPlmg.jpg)
+![Kívülről](https://i.imgur.com/rDni6LP.jpg)
 
-A közel 4,5 ha-os jó minőségű szántóból most 1,2 ha-on a gazdáikat sajttal ajándékozó kecskék legelnek. 6100 m2 kivett területen áll a lakóház, udvar, gazdasági épület, mellettük a jól termő zöldséges kert és két kicsi, összesen 250 m2-nyi tavacska, amelyek tiszta vizében pisztrángok élnek. A kerék hajtására és a tavak létesítésére jelenleg érvényes vízjogi engedélyt csak 2028-ban kell hosszabbítani. 
-A terület két oldalán a természetes határ a Séd két ága, így engedélyeztetés után könnyedén kialakítható a mostani legelő területén egy kb. 1 ha-nyi gravitációsan tölthető halastó, sőt akár több tó is.
-Az eladó terület közvetlen szomszédságában további termőföld területek is vásárolhatók.
+![Kívülről](https://i.imgur.com/zn4KsNk.jpg)
 
-![Kívülről](http://i.imgur.com/Nae804W.jpg)
+![Kívülről](https://i.imgur.com/TSS5tTt.jpg)
 
-![Kívülről](http://i.imgur.com/96RdIM1.jpg)
+A 300 m2-es, hat és fél szobás, kétszintes épületben egy nagy lakást, a vendégek számára egy kényelmes, kétszobás apartmant alakítottak ki, és a 80 m2-es tetőtér beépítése is befejeződött. A felújított épületben 5 fürdőszoba és 6 WC van. 
+**Mindhárom lakrész önálló külső bejárattal rendelkezik.**
 
-![Kívülről](http://i.imgur.com/iVekA8C.jpg)
+![Kívülről](https://i.imgur.com/I7zqMHe.jpg)
 
-[Herend](http://hu.wikipedia.org/wiki/Herend) Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
+![Kívülről](https://i.imgur.com/1mO1Qu9.jpg)
 
-A sokféle lehetőséget nyújtó 5,8 ha-os terület ára 150 000 000 HUF, vagy 420 000 €
+![Kívülről](https://i.imgur.com/zipFLEZ.jpg)
 
-Érdeklődjön a részletekről! Érdemes :)
+![Kívülről](https://i.imgur.com/JjwSV0l.jpg)
 
-Jó döntést kívánunk!
+![Kívülről](https://i.imgur.com/fiGsmIB.jpg)
 
-# Képek
+A tanya szinte teljesen megközelíthető aszfaltos úton, arról rövidke, zúzott köves szakasz visz a kapuig. A gyönyörű és egészséges környezetben álló otthon kiemelkedő előnye, hogy bár a telken belül elérhető a vezetékes víz és az elektromos áram (3x32 A), a fenntartása környezetbarát megoldásokkal is működik. A malom kerekét a 3 m-ről lezúduló patakvíz hajtja. A tetőn 10 KW-nyi napelem termeli az energiát, ami igény szerint még bővíthető. (Az inverter 12,5 KW-os.) A háztartási gépekkel is jól felszerelt tágas épület teljes energiafogyasztását, melegvíz ellátását bőségesen fedezi a napelemes rendszer, a fűtésre optimalizált klíma biztosítja a függetlenség és kényelem megnyugtató érzését. 
+Az elektromos fogyasztásmérő alapján kiállított számla szerint mindez **0 HUF/év**!
+A szolgáltató számára csak a rendelkezésre állásáért kell fizetni. (1836 HUF/év)
 
-![Kívülről](http://i.imgur.com/YhI4eTS.jpg)
+Alternatívaként az otthon melegét a vegyes (itt fa) tüzelésű kazánnal a központi fűtés is garantálja, valamint a cserépkályhában és kandallóban pattogó tűz hangulata is emeli…
 
-![Kívülről](http://i.imgur.com/NBloOsX.jpg)
+![Kívülről](https://i.imgur.com/UHdPvMr.jpg)
 
-![Kívülről](http://i.imgur.com/pwnwLmS.jpg)
+![Kívülről](https://i.imgur.com/7E4lwFm.jpg)
 
-![Kívülről](http://i.imgur.com/bIz4DC5.jpg)
+![Kívülről](https://i.imgur.com/amgPlmg.jpg)
 
-![Kívülről](http://i.imgur.com/7nJY3Vg.jpg)
+![Kívülről](https://i.imgur.com/kboeLx0.jpg)
 
-![Kívülről](http://i.imgur.com/8PldK8Q.jpg)
+A szántóföld igen jó minőségű, a terület állattartásra is kiválóan alkalmas. A 9,1 ha-os terület 2,5 ha-nyi része fejlesztési terület (lovas, sport, szabadidő), ennek 10 %-a beépíthető.
+Az erdő 0,8 ha-os, 6100 m2 kivett területen áll a lakóház, udvar, a 270 m2-es gazdasági épület, mellettük a jól termő zöldséges kert és kettő, összesen 250 m2-nyi, mélyülő medrű, tiszta vizű fürdőtó. 
+A terület két oldalán természetes határ a Séd két ága, így a földrajzi adottságok, a terepviszonyok nem akadályozzák a mostani legelő helyén kb. 1 ha-nyi, gravitációsan tölthető halastó kialakítását.
 
-![Kívülről](http://i.imgur.com/PGn81UA.jpg)
+![Kívülről](https://i.imgur.com/Nae804W.jpg)
 
-![Kívülről](http://i.imgur.com/GBVGLUi.jpg)
+![Kívülről](https://i.imgur.com/96RdIM1.jpg)
 
-#![Kívülről](http://i.imgur.com/lvGf4Vr.jpg)
+![Kívülről](https://i.imgur.com/iVekA8C.jpg)
+
+![Kívülről](https://i.imgur.com/TKKvR3X.jpg)
+
+![Kívülről](https://i.imgur.com/BsX3Qbh.jpg)
+
+![Kívülről](https://i.imgur.com/iSF3nb5.jpg)
+
+![Kívülről](https://i.imgur.com/yanIL3C.jpg)
+
+A tanya Veszprémtől 15 km, Balatonfüredtől 30 km, Budapesttől 120 km távolságra van.
+
+**Az irányára: 950 000 €.**
+
+Érdeklődjön a további részletekről!!! Érdemes!
+
+Jó döntést kívánunk! :)
+
+# További képek
+
+![Kívülről](https://i.imgur.com/JAxK1qC.jpg)
+
+![Kívülről](https://i.imgur.com/ZYDQ38h.jpg)
+
+![Kívülről](https://i.imgur.com/kNr6w1d.jpg)
+
+![Kívülről](https://i.imgur.com/cHwgdIm.jpg)
+
+![Kívülről](https://i.imgur.com/y00UVO2.jpg)
+
+![Kívülről](https://i.imgur.com/YhI4eTS.jpg)
+
+![Kívülről](https://i.imgur.com/tc6fhUS.jpg)
+
+![Kívülről](https://i.imgur.com/NBloOsX.jpg)
+
+![Kívülről](https://i.imgur.com/pwnwLmS.jpg)
+
+![Kívülről](https://i.imgur.com/bIz4DC5.jpg)
+
+![Kívülről](https://i.imgur.com/XPNh6sa.jpg)
+
+![Kívülről](https://i.imgur.com/7nJY3Vg.jpg)
+
+![Kívülről](https://i.imgur.com/8PldK8Q.jpg)
+
+![Kívülről](https://i.imgur.com/tvsTRFs.jpg)
+
+![Kívülről](https://i.imgur.com/NLnq2pu.jpg)
+
+![Kívülről](https://i.imgur.com/SN0SS9E.jpg)
+
+![Kívülről](https://i.imgur.com/GBVGLUi.jpg)
+
+![Kívülről](https://i.imgur.com/lvGf4Vr.jpg)
+
+![Kívülről](https://i.imgur.com/uLm5uNr.jpg)
+
+![Kívülről](https://i.imgur.com/Pt8XAD0.jpg)
+
+![Kívülről](https://i.imgur.com/jU6yM23.jpg)
+
+![Kívülről](https://i.imgur.com/EfiB1LL.jpg)
+
+![Kívülről](https://i.imgur.com/Fiop18z.jpg)
+
+![Kívülről](https://i.imgur.com/6r1ZOKL.jpg)
+
+![Kívülről](https://i.imgur.com/lQgpfgh.jpg)
+
+![Kívülről](https://i.imgur.com/M2ikrHC.jpg)
+
+![Kívülről](https://i.imgur.com/BwOM97E.jpg)
+
+![Kívülről](https://i.imgur.com/hAC5Lgf.jpg)
+
+# ![Kívülről](https://i.imgur.com/hPfbizG.jpg)
